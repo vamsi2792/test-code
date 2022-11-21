@@ -1,1 +1,1 @@
-
+There are many tools out there for dowmloading the images while web scraping. There is a tool called free download manager which is helpful for downloaidng the images with the help of URL's. First we need to figure out the URL, after that we have make sure the quality of the image is high. If this qualities are met, we can directly download the images in the desktop. Still there are many ways to crawl the website. The contents of the website should be displayed at the top, so that we can directly go to that content and download it through tools.
